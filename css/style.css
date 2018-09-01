@@ -402,7 +402,7 @@ textarea.form-control {
 }
 
 .half .image, .half .text {
-  width: 50%;
+  width: 100%;
 }
 
 @media (max-width: 991.98px) {
